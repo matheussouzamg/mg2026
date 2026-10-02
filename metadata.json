@@ -1,0 +1,6 @@
+{
+  "name": "Matheus Souza - Micropigmentação Capilar",
+  "description": "Página de vendas oficial do Curso de Micropigmentação Capilar com Matheus Souza. Aprenda a técnica que transforma vidas e gere uma nova fonte de renda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
